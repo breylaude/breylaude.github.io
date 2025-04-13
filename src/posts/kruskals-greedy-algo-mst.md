@@ -1,5 +1,5 @@
 ---
-title: Kruskal's Greedy Algorithm for MST
+title: Kruskal&#39;s Greedy Algorithm for MST
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2019-06-04'
