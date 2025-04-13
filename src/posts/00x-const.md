@@ -3,7 +3,7 @@ title: 00xx const
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2020-06-17'
-tags: [cp]
+tags: [competitive-programming]
 ---
 
 I want to compare five things: `char ** a;` `const char ** b;` `char * const * c;` `const char * const * d; const char * const * const e;`
