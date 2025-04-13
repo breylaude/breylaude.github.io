@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ''
+title: 'Brey Laude's website'
 ---
 
 # Hello World
