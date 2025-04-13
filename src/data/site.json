@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
+  "name": "Brey Laude",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Brey Laude",
+    "email": "info@breylaude.com",
+    "twitterHandle": "@breylaude"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -23,17 +23,17 @@
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
+      "url": "https://instagram.com/breylaude",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/breylaude",
       "external": true
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "text": "X",
+      "url": "https://x.com/breylaude",
       "external": true
     }
   ],
