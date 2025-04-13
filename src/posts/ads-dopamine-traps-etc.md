@@ -2,7 +2,7 @@
 title: Ads, Dopamine Traps, and Memetic Hazards
 description: Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal.
 permalink: posts/{{ title | slug }}/index.html
-date: '2023-19-15'
+date: '2023-09-15'
 tags: [administrativia]
 ---
 
