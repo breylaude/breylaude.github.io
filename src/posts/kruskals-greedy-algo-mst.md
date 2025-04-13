@@ -1,5 +1,5 @@
 ---
-title: Kruskal&#39;s Greedy Algorithm for MST
+title: Kruskals Greedy Algorithm for MST
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2019-06-04'
@@ -10,7 +10,7 @@ The code that follows was already written before. To do it, I created a straight
 
 Simply insert the sort so that the tail is very slight. It serves no purpose, and, when used in the tree list, appears more NC. Actually, its better to use `heap` or `qsort` after all input has been received, and to dynamically allocate enough space based on the input `n`.
 
-```c++
+```cpp
 #include<stdio.h>
 #include<stdlib.h>
 
