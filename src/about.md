@@ -11,8 +11,4 @@ His main focus lies on the converge between secure hardware and software, innova
 
 He has worked on a variety of personal and collaborative projects ranging from exploit development to threat intelligence tools.
 
-He is currently focused on building his cybersecurity startup, with the idea of developing higher sense of information security in the Philippines and wider.[See Laude Technologies for more info](https://laudetechnologies)
-
-
-
-
+He is currently focused on building his cybersecurity startup, with the idea of developing higher sense of information security in the Philippines and wider. [See Laude Technologies for more info](https://laudetechnologies)
