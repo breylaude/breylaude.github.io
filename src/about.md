@@ -5,7 +5,7 @@ name: Brey Laude
 image: '/images/me.jpg'
 ---
 
-Brey Laude is a 21-year-old security researcher and programmer who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+Brey Laude is a 21-year-old security researcher and programmer who enjoys programming and computers in general. He is nice and kind, but can also be very rude and a bit lazy.
 
 He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
 
