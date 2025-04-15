@@ -6,7 +6,7 @@ description:
 permalink: posts/{{ title | slug }}/index.html
 ---
 
-Brian Cantwell Smith is one of the many people who are far smarter than I am, their [MIT thesis Procedural Reflection in Programming Languages](https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-272.pdf), which is something else, is how I first became aware of them.
+Brian Cantwell Smith is one of the many people who are far smarter than I am. His [MIT thesis Procedural Reflection in Programming Languages](https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-272.pdf)—which is something else—is how I first became aware of him.
 
 As usual, I learned the concepts presented in this post from the aforementioned paper. As such, I'm not sure if I should give credit to Brian for these concepts, but I will since I'm not sure whom to give credit to otherwise.
 
