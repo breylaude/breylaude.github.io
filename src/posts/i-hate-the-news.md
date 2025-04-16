@@ -1,7 +1,7 @@
 ---
 title: I Hate the News
 date: '2025-04-13'
-tags: [programming]
+tags: [administrativia]
 description: 
 permalink: posts/{{ title | slug }}/index.html
 ---
