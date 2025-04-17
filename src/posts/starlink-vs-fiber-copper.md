@@ -22,6 +22,6 @@ Upload speeds often crawl. I tried using prepaid SIMs with routers then strapped
 In Spain, Joshua mentioned paying just 15 euros (~₱900) for real unlimited 4G LTE — that’s impressive. Here, I dream of that. I pay twice as much for half the speed, and *“unlimited”* means *“you hit 30GB, now suffer.”* That shit's lie.
 
 ## So what's left?
-I rely on Globe's 5G modem and GOMO — switching SIMs like a drug dealer trying to find the good shit. When it works, it’s good, hitting 200 Mbps down, 30 Mbps up. But the signal can vanish when it rains. Outside town, I use Converge FibreX — consistent, stable, 50 Mbps down and up. Cheap at ₱1,500 per month. But again, only available in bigger towns. 
+I rely on Globe's 5G modem and GOMO Fibre — switching SIMs like a drug dealer trying to find the good shit. When it works, it’s good, hitting 200 Mbps down, 30 Mbps up. But the signal can vanish when it rains. Outside town, I use Converge FibreX — consistent, stable, 50 Mbps down and up. Cheap at ₱1,500 per month. But again, only available in bigger towns. 
 
 If Starlink lowers its hardware cost or if the government subsidizes rural rollouts (in your dreams), I can see this becoming a real solution for places like Palawan. Until then, wrestle with telco promos, prepaid hacks, whatever.
