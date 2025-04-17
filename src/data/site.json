@@ -1,10 +1,10 @@
 {
-  "name": "The Singularity is Nearer",
+  "name": "Reasonable Performance",
   "description": "Brey Laude's website",
   "url": "https://blaude.netlify.app",
   "author": {
     "name": "Brey Laude",
-    "email": "info@breylaude.com",
+    "email": "laude822@gmail.com",
     "twitterHandle": "@breylaude"
   },
   "defaultSocialImage": "/images/default-social-image.png",
@@ -21,11 +21,6 @@
     }
   ],
   "socialLinks": [
-    {
-      "text": "Instagram",
-      "url": "https://instagram.com/breylaude08",
-      "external": true
-    },
     {
       "text": "GitHub",
       "url": "https://github.com/breylaude",
