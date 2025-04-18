@@ -14,7 +14,7 @@ I was cleaning up my disk partition to free up some of the space all those auto-
 
 Fuck. This is it.
 
-I have to actually write down the full commands now. At this point, I gave up on the bug I was working on and was about to go 
+I have to actually write down the full commands now. I gave up on the bug I was working on at this point and was about to go outside to get a beer.
 
 While trying to make a mental note of each of the aliases and functions I wrote, I realized one thing. 
 
