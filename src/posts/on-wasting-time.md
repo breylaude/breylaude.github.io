@@ -1,6 +1,6 @@
 ---
 title: On wasting time
-date: '2025-04-18'
+date: '2025-04-12'
 tags: []
 description: 
 permalink: posts/{{ title | slug }}/index.html
