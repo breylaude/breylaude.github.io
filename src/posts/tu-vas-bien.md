@@ -1,5 +1,5 @@
 ---
-title: Jus qui c'est, tu vas bien
+title: Jus qui cest, tu vas bien
 date: '2025-04-18'
 tags: []
 description: 
