@@ -1,8 +1,8 @@
 .header {
   max-width: none;
   width: 100%;
-  text-transform:none;
-  text-transform: uppercase;
+  /* text-transform:none;
+  text-transform: uppercase; */
   margin-bottom: 4rem;
 }
 
